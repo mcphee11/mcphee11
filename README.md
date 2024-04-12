@@ -4,7 +4,7 @@
 
 I'm not a full time developer, but happy to give things a go as I have a programming background and publish examples of items that I often get asked about in the real world in my day to day job. I hope you find at least some of these examples helpful. If there is a item or topic you would like an example on, reach out and I might just make one 👍
 
-I have been trying to move some content and processes into more consumable **`"codelabs"`** where people can go step by step and learn items. These are currently all based on Genesys Cloud. To access these go [here]("https://developer-training-genesys.firebaseapp.com/") you will need to use a Gmail account to login to access them, this is to enable a server side save state for your progress across devices. **This is a work in progress effort**. Feel free to give feedback on this content.
+I have been trying to move some content and processes into more consumable **`"codelabs"`** where people can go step by step and learn items. These are currently all based on Genesys Cloud. To access these go [here](https://developer-training-genesys.firebaseapp.com/) you will need to use a Gmail account to login to access them, this is to enable a server side save state for your progress across devices. **This is a work in progress effort**. Feel free to give feedback on this content.
 
    <p align="left">
       <a href="https://github.com/mcphee11?tab=repositories&sort=stargazers">
